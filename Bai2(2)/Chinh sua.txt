@@ -1,0 +1,10 @@
+﻿- Từ khoá viết thường
+  Begin không phải là từ khoá
+- Toán tử khác : != <>
+- Chấp nhận hằng chuỗi "abcd"
+- Kí hiệu [] tương đương (. .)
+- Tên : có dấu gạch dưới, độ dài <10
+  Tên dài quá thì chỉ lấy 10 kí tự đầu
+- Chú thích dòng lệnh, dạng //
+- Số nguyên, tối đa 5 chữ số (<32768)
+  Thông báo lỗi, số quá lớn
